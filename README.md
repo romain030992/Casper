@@ -5,6 +5,8 @@ The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the la
 # Theme features
 Every features from Casper are available and I added a few more :
 - Automatic Table of content
+- Disqus enabled
+- Social icons
 
 &nbsp;
 
